@@ -21,8 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Aditya-k63/dsa_repo/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Aditya-k63/dsa_repo/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aditya-k63/dsa_repo/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aditya-k63/dsa_repo/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
