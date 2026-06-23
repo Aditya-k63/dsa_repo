@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
