@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Aditya-k63/dsa_repo/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya-k63/dsa_repo/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
