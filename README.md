@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aditya-k63/dsa_repo/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
