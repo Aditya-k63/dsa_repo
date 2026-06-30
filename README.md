@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya-k63/dsa_repo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
