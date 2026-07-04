@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 ## Matrix
