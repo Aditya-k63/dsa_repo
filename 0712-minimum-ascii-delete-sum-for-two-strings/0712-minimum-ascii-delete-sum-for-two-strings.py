@@ -9,7 +9,6 @@ class Solution:
             for j in range(1, n + 1):
                 if s1[i - 1] == s2[j - 1]:
                     dp[i][j] = dp[i-1][j-1] + ord(s1[i-1])
-
                 else:
                     dp[i][j]=max(dp[i-1][j],dp[i][j-1])
                     
