@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aditya-k63/dsa_repo/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aditya-k63/dsa_repo/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
