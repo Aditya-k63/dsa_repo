@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aditya-k63/dsa_repo/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/Aditya-k63/dsa_repo/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Aditya-k63/dsa_repo/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Aditya-k63/dsa_repo/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
