@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
+| [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya-k63/dsa_repo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Stack
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 ## Matrix
