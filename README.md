@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya-k63/dsa_repo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1155-number-of-dice-rolls-with-target-sum) |
