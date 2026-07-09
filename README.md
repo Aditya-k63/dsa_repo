@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya-k63/dsa_repo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+| [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
 ## Trie
 |  |
 | ------- |
