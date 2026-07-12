@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Aditya-k63/dsa_repo/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aditya-k63/dsa_repo/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Aditya-k63/dsa_repo/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0516-longest-palindromic-subsequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aditya-k63/dsa_repo/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aditya-k63/dsa_repo/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Aditya-k63/dsa_repo/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Aditya-k63/dsa_repo/tree/master/0221-maximal-square) |
