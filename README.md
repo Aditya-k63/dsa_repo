@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya-k63/dsa_repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aditya-k63/dsa_repo/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya-k63/dsa_repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aditya-k63/dsa_repo/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1043-partition-array-for-maximum-sum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya-k63/dsa_repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Backtracking
 |  |
 | ------- |
