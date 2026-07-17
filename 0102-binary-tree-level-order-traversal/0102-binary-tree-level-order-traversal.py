@@ -3,11 +3,9 @@ from typing import List, Optional
 
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        # ✅ Fixed Guardrail: Exit early with empty list if root doesn't exist
         if root is None:
             return []
             
-        # ✅ Fixed Scope: Initialized here so it is accessible throughout the method
         result = []
         q = deque([root])
         
@@ -23,8 +21,6 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            
-            # ✅ Fixed Typo: Spelled current_level correctly
             result.append(current_level)
             
         return result
