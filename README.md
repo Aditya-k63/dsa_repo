@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Aditya-k63/dsa_repo/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Aditya-k63/dsa_repo/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
@@ -246,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
