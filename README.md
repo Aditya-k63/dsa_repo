@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0063-unique-paths-ii) |
