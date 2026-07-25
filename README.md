@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Aditya-k63/dsa_repo/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aditya-k63/dsa_repo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
 |  |
 | ------- |
