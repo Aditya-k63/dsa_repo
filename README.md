@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aditya-k63/dsa_repo/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-k63/dsa_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aditya-k63/dsa_repo/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-k63/dsa_repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-k63/dsa_repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-k63/dsa_repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
