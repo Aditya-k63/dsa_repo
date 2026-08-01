@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1416-restore-the-array](https://github.com/Aditya-k63/dsa_repo/tree/master/1416-restore-the-array) |
 | [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
 ## Matrix
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Aditya-k63/dsa_repo/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/Aditya-k63/dsa_repo/tree/master/0687-longest-univalue-path) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Aditya-k63/dsa_repo/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
