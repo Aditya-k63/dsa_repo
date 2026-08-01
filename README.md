@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Aditya-k63/dsa_repo/tree/master/0563-binary-tree-tilt) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
