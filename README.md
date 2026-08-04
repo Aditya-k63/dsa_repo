@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aditya-k63/dsa_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0063-unique-paths-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aditya-k63/dsa_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya-k63/dsa_repo/tree/master/0354-russian-doll-envelopes) |
 ## Combinatorics
