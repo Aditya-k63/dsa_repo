@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aditya-k63/dsa_repo/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
