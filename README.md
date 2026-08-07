@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aditya-k63/dsa_repo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/Aditya-k63/dsa_repo/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aditya-k63/dsa_repo/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Aditya-k63/dsa_repo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-k63/dsa_repo/tree/master/0084-largest-rectangle-in-histogram) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
