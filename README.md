@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Aditya-k63/dsa_repo/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-k63/dsa_repo/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Aditya-k63/dsa_repo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Aditya-k63/dsa_repo/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-k63/dsa_repo/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Aditya-k63/dsa_repo/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aditya-k63/dsa_repo/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
