@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-k63/dsa_repo/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Aditya-k63/dsa_repo/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Aditya-k63/dsa_repo/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Aditya-k63/dsa_repo/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Aditya-k63/dsa_repo/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-k63/dsa_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-k63/dsa_repo/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
