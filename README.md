@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Aditya-k63/dsa_repo/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-k63/dsa_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-k63/dsa_repo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/Aditya-k63/dsa_repo/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya-k63/dsa_repo/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-k63/dsa_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
