@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya-k63/dsa_repo/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
 |  |
 | ------- |
