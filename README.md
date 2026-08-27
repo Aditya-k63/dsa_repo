@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-k63/dsa_repo/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1416-restore-the-array](https://github.com/Aditya-k63/dsa_repo/tree/master/1416-restore-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya-k63/dsa_repo/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Aditya-k63/dsa_repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-k63/dsa_repo/tree/master/1386-cinema-seat-allocation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Aditya-k63/dsa_repo/tree/master/1872-stone-game-viii) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
