@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya-k63/dsa_repo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1872-stone-game-viii](https://github.com/Aditya-k63/dsa_repo/tree/master/1872-stone-game-viii) |
 | [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-k63/dsa_repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Aditya-k63/dsa_repo/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-k63/dsa_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-k63/dsa_repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aditya-k63/dsa_repo/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-k63/dsa_repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
