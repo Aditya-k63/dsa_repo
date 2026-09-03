@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-k63/dsa_repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditya-k63/dsa_repo/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya-k63/dsa_repo/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditya-k63/dsa_repo/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
 | ------- |
