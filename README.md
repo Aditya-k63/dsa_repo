@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Aditya-k63/dsa_repo/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-k63/dsa_repo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Aditya-k63/dsa_repo/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-k63/dsa_repo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Aditya-k63/dsa_repo/tree/master/0938-range-sum-of-bst) |
 | [0968-binary-tree-cameras](https://github.com/Aditya-k63/dsa_repo/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-k63/dsa_repo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
