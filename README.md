@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya-k63/dsa_repo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aditya-k63/dsa_repo/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-k63/dsa_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/Aditya-k63/dsa_repo/tree/master/0647-palindromic-substrings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya-k63/dsa_repo/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-k63/dsa_repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -447,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-k63/dsa_repo/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
