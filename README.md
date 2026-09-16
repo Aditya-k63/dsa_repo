@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditya-k63/dsa_repo/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1416-restore-the-array](https://github.com/Aditya-k63/dsa_repo/tree/master/1416-restore-the-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-k63/dsa_repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-k63/dsa_repo/tree/master/1872-stone-game-viii) |
 | [2312-selling-pieces-of-wood](https://github.com/Aditya-k63/dsa_repo/tree/master/2312-selling-pieces-of-wood) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-k63/dsa_repo/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aditya-k63/dsa_repo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-k63/dsa_repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-k63/dsa_repo/tree/master/1872-stone-game-viii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditya-k63/dsa_repo/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-k63/dsa_repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Greedy
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-k63/dsa_repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-k63/dsa_repo/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-k63/dsa_repo/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/3904-smallest-stable-index-ii) |
