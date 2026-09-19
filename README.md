@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aditya-k63/dsa_repo/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Aditya-k63/dsa_repo/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0509-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-k63/dsa_repo/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-k63/dsa_repo/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-k63/dsa_repo/tree/master/1872-stone-game-viii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-k63/dsa_repo/tree/master/3536-maximum-product-of-two-digits) |
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-k63/dsa_repo/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
