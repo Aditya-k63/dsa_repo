@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Aditya-k63/dsa_repo/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-k63/dsa_repo/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-k63/dsa_repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aditya-k63/dsa_repo/tree/master/0901-online-stock-span) |
 | [1096-brace-expansion-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aditya-k63/dsa_repo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya-k63/dsa_repo/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
