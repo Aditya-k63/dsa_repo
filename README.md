@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Aditya-k63/dsa_repo/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aditya-k63/dsa_repo/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-k63/dsa_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aditya-k63/dsa_repo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aditya-k63/dsa_repo/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-k63/dsa_repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Aditya-k63/dsa_repo/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Aditya-k63/dsa_repo/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Aditya-k63/dsa_repo/tree/master/0354-russian-doll-envelopes) |
 | [0853-car-fleet](https://github.com/Aditya-k63/dsa_repo/tree/master/0853-car-fleet) |
