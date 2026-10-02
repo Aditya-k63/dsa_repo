@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aditya-k63/dsa_repo/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Aditya-k63/dsa_repo/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Aditya-k63/dsa_repo/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Aditya-k63/dsa_repo/tree/master/0115-distinct-subsequences) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-k63/dsa_repo/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aditya-k63/dsa_repo/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aditya-k63/dsa_repo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aditya-k63/dsa_repo/tree/master/0062-unique-paths) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-k63/dsa_repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Aditya-k63/dsa_repo/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Aditya-k63/dsa_repo/tree/master/1096-brace-expansion-ii) |
 ## Binary Indexed Tree
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-k63/dsa_repo/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-k63/dsa_repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
